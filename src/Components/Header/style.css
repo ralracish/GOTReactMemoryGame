@@ -1,0 +1,32 @@
+.header {
+  min-height: 80px;
+  background: #663300;
+  position: relative;
+}
+
+.header span {
+  padding: 3px;
+  background: #663300;
+}
+h1 {
+  font-family: gameofthrones;
+  font-weight: bold;
+  margin-top:20px;
+  margin-left:20px;
+  text-align: center;
+  color:gold;
+}
+@font-face {
+  font-family: gameofthrones;
+  src: url(GameofThrones.ttf);
+}
+h4 {
+  display: inline-block;
+  margin-left:100px;
+  color:gold;
+}
+h5 {
+  display: inline-block;
+  margin-left:100px;
+  color:gold;
+}
